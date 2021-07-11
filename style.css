@@ -1,0 +1,79 @@
+body{
+  background-color:darkblue;
+  margin:0 ;
+  padding:0;
+}
+.contain{
+  margin: 10% auto ;
+  text-align: center ;
+  padding:10px ;
+  background-color:rgba(220, 50, 100, 0.5);
+}
+h4{
+	background-color:#fff;
+}
+.contain .gen{
+  display:flex;
+  justify-content: center ;
+}
+#yil{
+  font-size:2rem;
+  color:white;
+  
+  
+}
+#kun{
+
+  Margin:10px;
+  font-size:16px;
+  color:white;
+  background-color:red;
+  font-family: Monospace ;
+  font-weight:bold;
+ 
+}
+#soat{
+
+  margin:10px ;
+  font-size:16px ;
+  color:white;
+  background-color:red;
+  font-family: Monospace ;
+  font-weight:bold;
+ 
+}
+#minut{
+  
+  margin:10px ;
+  font-size:16px;
+  color:white;
+  font-family: Monospace ;
+  font-weight:bold;
+  background-color:red;
+ 
+}
+#SONIYA{
+
+  margin:10px ;
+  font-size:16px;
+  color :white;
+  font-family: Monospace ;
+  font-weight:bold;
+  background-color: red ;
+ 
+}
+h3{
+  color: white;
+  font-style: italic;
+  font-family: Monospace ;
+  font-weight:bold;
+ 
+}
+h4{
+  color:blue;
+  font-size:25px ;
+  font-style:verdana ;
+  font-family:Monospace;
+  margin:7px;
+  background-color:whte;
+}
