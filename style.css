@@ -9,9 +9,7 @@ body{
   padding:10px ;
   background-color:rgba(220, 50, 100, 0.5);
 }
-h4{
-	background-color:#fff;
-}
+
 .contain .gen{
   display:flex;
   justify-content: center ;
